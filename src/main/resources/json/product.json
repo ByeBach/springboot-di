@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "playstatipon 5",
+        "price": 1250
+    },
+    {
+        "id": 2,
+        "name": "game controller",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "name": "laptop",
+        "price": 62
+    },
+    {
+        "id": 4,
+        "name": "gameset",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "name": "xbox",
+        "price": 187
+    }
+]
